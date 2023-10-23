@@ -9,7 +9,6 @@ repository = "https://github.com/FujiiLabCollaboration/MNISQ-quantum-circuit-dat
 homepage = "https://github.com/FujiiLabCollaboration/MNISQ-quantum-circuit-dataset"
 
 [tool.poetry.dependencies]
-python = ">=3.8,<3.11"
 numpy = "^1.0.0"
 matplotlib = "^3.6.2"
 requests = "^2.28.1"
